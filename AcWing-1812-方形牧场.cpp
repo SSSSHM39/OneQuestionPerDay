@@ -16,3 +16,6 @@ int main()
     cout << m * m << endl;
     return 0;
 }
+
+//原题链接 : https://www.acwing.com/problem/content/description/1814/
+//枚举
